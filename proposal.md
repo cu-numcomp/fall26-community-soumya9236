@@ -1,7 +1,7 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: *IterativeSolvers.jl*
 
 *Write a paragraph describing what the software does and who its
 primary audience is.*
@@ -10,31 +10,31 @@ primary audience is.*
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2025-11-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Does the project have an AI contribution policy? | link |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Repository URL | https://github.com/JuliaLinearAlgebra/IterativeSolvers.jl  |
+| Main/documentation website | https://iterativesolvers.julialinearalgebra.org/dev/   |
+| Year project was started | 2013  |
+| Number of contributors in the past year | 14 |
+| Number of contributors in the lifetime of the project | 42  |
+| Number of distinct affiliations | >10 |
+| Where do development discussions take place? | Github pull requests and issues  |
+| Typical number of emails/comments per week? |  1-2  |
+| Typical number of commits per week? |  1-2 |
+| Typical commit size | Typically smaller commits affecting just a few files |
+| How does the project accept contributions? | Github pull requests and issues   |
+| Does the project have an automated test suite? | yes |
+| Does the project use continuous integration? | yes |
+| Does the project have an AI contribution policy? | No there is policy found |
+| Are any legal/licensing steps required to contribute? | No additional steps other than MIT license |
 
 ### Install and run
 
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
-- [ ] I have run the test suite
-- [ ] The test suite passes
+- [ X] I have installed the software
+- [ X] I have run at least one example
+- [ X] I have run the test suite
+- [ X] The test suite passes
 
 ### Notes/concerns/risks
 
